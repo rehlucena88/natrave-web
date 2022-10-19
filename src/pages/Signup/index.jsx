@@ -42,7 +42,7 @@ export const Signup = () => {
       <div>
         <header className=" p-4 border-b border-red-300">
           <div className="flex justify-center container max-w-xl">
-            <img src="../public/imgs/logo-fundo-branco.svg" className="w-32 md:w-40"/>
+            <img src="imgs/logo-fundo-branco.svg" className="w-32 md:w-40"/>
           </div>
         </header>
 
