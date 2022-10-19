@@ -12,7 +12,7 @@ export function Home() {
     return(
       <div className="h-screen bg-red-700 text-white flex flex-col items-center p-4 space-y-6">
         <header className="container flex justify-center p-4 max-w-5xl">
-          <img src="../public/imgs/logo-fundo-vermelho.svg" className="w-40"/>
+          <img src="/web/public/imgs/logo-fundo-vermelho.svg" className="w-40"/>
         </header>
 
     <div className=" container max-w-5xl flex-1 flex flex-col items-center md:flex-row space-y-6 md:space-y-0 md:space-x-6 p-4">
